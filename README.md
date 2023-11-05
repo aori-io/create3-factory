@@ -17,11 +17,11 @@ A `CREATE3` factory offers the best solution: the address of the deployed contra
 
 CREATE3 allows us to manage our deployments better as well as make integration by developers more painless.
 
-Reach out to the [@aori_io](https://twitter.com/aori_io) on Twitter if you would like us to deploy to a certain chain.
+Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you would like us to deploy the `CREATE3Factory` to a certain chain.
 
 ## Deployments
 
-`CREATE3Factory` has been deployed by the deployer address `0x243Eac06A13b3d83d0310fA320Dd9dF16147B08b` to `0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1` on the following networks:
+`CREATE3Factory` has been deployed by the deployer address `0x243Eac06A13b3d83d0310fA320Dd9dF16147B08b` to ``0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1` on the following networks:
 
 ### Mainnets
 
