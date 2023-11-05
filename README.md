@@ -2,9 +2,9 @@
 
 Factory contract for easily deploying contracts to the same address on multiple chains, using CREATE3.
 
-This was forked from https://github.com/zeframlou/create3-factory
+This was forked from https://github.com/lifinance/create3-factory (which forked https://github.com/zeframlou/create3-factory).
 
-The deploy script was updated to use legacy (non EIP-1559) transactions due to the fact that some chains that LIFI supports do not support EIP-1559.
+The deploy script was updated to use legacy (non EIP-1559) transactions due to the fact that some chains do not support EIP-1559.
 
 ## Why?
 
@@ -15,15 +15,17 @@ One could use a `CREATE2` factory that deterministically deploys contracts to an
 
 A `CREATE3` factory offers the best solution: the address of the deployed contract is determined by only the deployer address and the salt. This makes it far easier to deploy contracts to multiple chains at the same addresses.
 
-LIFI Supports a large number of chains and we are only growing. CREATE3 allows us to manage our deployments better as well as make integration by developers more painless.
+CREATE3 allows us to manage our deployments better as well as make integration by developers more painless.
+
+Reach out to the [@aori_io](https://twitter.com/aori_io) on Twitter if you would like us to deploy to a certain chain.
 
 ## Deployments
 
-`CREATE3Factory` has been deployed to `0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1` on the following networks:
+`CREATE3Factory` has been deployed by the deployer address `0x243Eac06A13b3d83d0310fA320Dd9dF16147B08b` to `0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1` on the following networks:
 
 ### Mainnets
 
-- Ethereum
+<!-- - Ethereum
 - Polygon
 - Binance Smart Chain
 - Gnosis
@@ -43,15 +45,15 @@ LIFI Supports a large number of chains and we are only growing. CREATE3 allows u
 - EVMOS
 - Aurora
 - Boba
-- Base
+- Base -->
 
 ### Testnets
 
-- Goerli
-- Sepolia
+- [Goerli](https://goerli.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
+<!-- - Sepolia
 - Mumbai
 - Arbitrum Goerli
-- ConsenSys zkEVM Testnet
+- ConsenSys zkEVM Testnet -->
 
 ## Usage
 
@@ -67,7 +69,7 @@ A few notes:
 To install with [Foundry](https://github.com/foundry-rs/foundry):
 
 ```
-forge install lifinance/create3-factory
+forge install aori-io/create3-factory
 ```
 
 ## Local development
