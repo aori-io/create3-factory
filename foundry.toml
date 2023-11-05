@@ -36,6 +36,7 @@ arbitrum-goerli = "${RPC_URL_ARBITRUM_GOERLI}"
 consensys-zkevm-testnet = "${RPC_URL_CONSENSYS_ZKEVM_TESTNET}"
 bsc-testnet = "${RPC_URL_BSC_TESTNET}"
 scroll-alpha = "${RPC_URL_SCROLL_ALPHA}"
+linea-goerli = "${RPC_URL_LINEA_GOERLI}"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
@@ -49,10 +50,11 @@ optimism = { key = "${OPTIMISM_ETHERSCAN_KEY}", url = "https://api-optimistic.et
 moonriver = { key = "${MOONRIVER_MOONSCAN_KEY}", url = "https://api-moonriver.moonscan.io/api" }
 moonbeam = { key = "${MOONBEAM_MOONSCAN_KEY}", url = "https://api-moonbeam.moonscan.io/api" }
 nova = { key = "${NOVA_ARBISCAN_KEY}", url = "https://nova.arbiscan.io/api" }
-base = { key = "${BASESCAN_API_KEY}", url = "https://api.basescan.org/api"}
-linea = { key = "${LINEASCAN_API_KEY}", url = "https://api.lineascan.build/api"}
+base = { key = "${BASESCAN_API_KEY}", url = "https://api.basescan.org/api" }
+linea = { key = "${LINEASCAN_API_KEY}", url = "https://api.lineascan.build/api" }
 
 #testnets
+linea-goerli = { key = "${LINEASCAN_API_KEY}", url = "https://api-goerli.lineascan.build/api" }
 goerli = { key = "${ETHERSCAN_KEY}" }
 sepolia = { key = "${ETHERSCAN_KEY}" }
 mumbai = { key = "${POLYGONSCAN_KEY}", url = "https://api-testnet.polygonscan.com/api" }
