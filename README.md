@@ -21,7 +21,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 
 ## Deployments
 
-`CREATE3Factory` has been deployed by the deployer address `0x243Eac06A13b3d83d0310fA320Dd9dF16147B08b` to ``0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1` on the following networks:
+`CREATE3Factory` has been deployed by the deployer address `0x243Eac06A13b3d83d0310fA320Dd9dF16147B08b` to `0x2Dfcc7415D89af828cbef005F0d072D8b3F23183` on the following networks:
 
 ### Mainnets
 
@@ -50,8 +50,8 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 ### Testnets
 
 - [Goerli](https://goerli.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
-<!-- - Sepolia
-- Mumbai
+- [Sepolia](https://sepolia.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
+<!-- - Mumbai
 - Arbitrum Goerli
 - ConsenSys zkEVM Testnet -->
 
@@ -95,3 +95,12 @@ Make sure that the network is defined in foundry.toml, then run:
 ```bash
 ./deploy/deploy.sh [network]
 ```
+
+### Fallback: Verification
+Verifying a contract on the relevant block explorer can have its issues. You can run:
+
+```bash
+forge verify-contract 0x2Dfcc7415D89af828cbef005F0d072D8b3F23183 CREATE3Factory --watch --chain [network]
+```
+
+to verify the contract separately if such a fail occurs.
