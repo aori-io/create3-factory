@@ -25,7 +25,8 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 
 ### Mainnets
 
-- [Polygon Mainnet](https://polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Polygon](https://polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Arbitrum (One)](https://arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 
 <!-- - Ethereum
 - Binance Smart Chain
@@ -33,7 +34,6 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - Fantom
 - OKXChain
 - Avalanche C-Chain
-- Arbitrum
 - Arbitrum Nova
 - Optimism
 - Moonriver
