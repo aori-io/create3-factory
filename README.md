@@ -82,6 +82,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Optimism Sepolia](https://sepolia-optimism.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)**
 - [Polygon Mumbai](https://mumbai.polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Sepolia](https://sepolia.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
+- [Taiko Jolnir](https://explorer.jolnir.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 
 (* = To Be Verified)
 (** = Issues Deploying)

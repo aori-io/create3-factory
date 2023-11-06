@@ -55,6 +55,7 @@ optimism-goerli = "${RPC_URL_OPTIMISM_GOERLI}"
 optimism-sepolia = "${RPC_URL_OPTIMISM_SEPOLIA}"
 fantom-testnet = "${RPC_URL_FANTOM_TESTNET}"
 frame-testnet = "${RPC_URL_FRAME_TESTNET}"
+taiko-jolnir = "${RPC_URL_TAIKO_JOLNIR}"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
