@@ -1,4 +1,5 @@
-# CREATE3 Factory
+![CREATE3Factory](./assets/CREATE3Factory.png)
+# CREATE3Factory
 
 Factory contract for easily deploying contracts to the same address on multiple chains, using CREATE3.
 
