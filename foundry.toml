@@ -57,6 +57,7 @@ fantom-testnet = "${RPC_URL_FANTOM_TESTNET}"
 frame-testnet = "${RPC_URL_FRAME_TESTNET}"
 taiko-jolnir = "${RPC_URL_TAIKO_JOLNIR}"
 mode-sepolia = "${RPC_URL_MODE_SEPOLIA}"
+opbnb-testnet = "${RPC_URL_OPBNB_TESTNET}"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
