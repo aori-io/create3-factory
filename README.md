@@ -78,6 +78,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Goerli](https://goerli.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
 - [Holesky](https://holesky.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Linea Goerli](https://explorer.goerli.linea.build/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Mantle Testnet](https://explorer.testnet.mantle.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Mode Sepolia](https://sepolia.explorer.mode.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [opBNB Testnet](https://opbnb-testnet.bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Optimism Goerli](https://goerli-optimism.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
