@@ -33,6 +33,7 @@ opbnb = "${RPC_URL_OPBNB}"
 mantle = "${RPC_URL_MANTLE}"
 scroll = "${RPC_URL_SCROLL}"
 pulsechain = "${RPC_URL_PULSECHAIN}"
+zora = "${RPC_URL_ZORA}"
 
 # testnets
 goerli = "${RPC_URL_GOERLI}"
