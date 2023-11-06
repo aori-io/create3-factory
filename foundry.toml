@@ -28,6 +28,7 @@ base = "${RPC_URL_BASE}"
 linea = "${RPC_URL_LINEA}"
 opbnb = "${RPC_URL_OPBNB}"
 mantle = "${RPC_URL_MANTLE}"
+scroll = "${RPC_URL_SCROLL}"
 
 # testnets
 goerli = "${RPC_URL_GOERLI}"
