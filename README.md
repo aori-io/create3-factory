@@ -29,6 +29,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Base](https://base.blockscout.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Binance Smart Chain](https://bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Linea](https://lineascan.build/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)*
+- [Manta Pacific](https://pacific-explorer.manta.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Mantle](https://explorer.mantle.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [opBNB](https://opbnbscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Optimism](https://optimistic.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)*
