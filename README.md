@@ -24,30 +24,30 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 `CREATE3Factory` has been deployed by the deployer address `0x243Eac06A13b3d83d0310fA320Dd9dF16147B08b` to `0x2Dfcc7415D89af828cbef005F0d072D8b3F23183` on the following networks:
 
 ### Mainnets
-- [Arbitrum Nova](https://nova.arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Arbitrum Nova](https://nova.arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Arbitrum (One)](https://arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
-- [Base](https://base.blockscout.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Binance Smart Chain](https://bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Canto](https://canto.dex.guru/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Celo](https://celoscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Cronos](https://cronoscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Flare](https://songbird-explorer.flare.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Gnosis](https://gnosisscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Linea](https://lineascan.build/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)*
-- [Kava](https://kavascan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Base](https://base.blockscout.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Binance Smart Chain](https://bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Canto](https://canto.dex.guru/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Celo](https://celoscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Cronos](https://cronoscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Flare](https://flare-explorer.flare.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Gnosis](https://gnosisscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Linea](https://lineascan.build/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
+- [Kava](https://kavascan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Klaytn](https://scope.klaytn.com/account/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)*
-- [Manta Pacific](https://pacific-explorer.manta.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Mantle](https://explorer.mantle.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Moonbeam](https://moonscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Moonriver](https://moonriver.moonscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Manta Pacific](https://pacific-explorer.manta.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Mantle](https://explorer.mantle.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Moonbeam](https://moonscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Moonriver](https://moonriver.moonscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [OKXChain](https://www.okx.com/explorer/oktc/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
-- [opBNB](https://opbnbscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Optimism](https://optimistic.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)*
+- [opBNB](https://opbnbscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Optimism](https://optimistic.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
 - [Polygon](https://polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
-- [Polygon zkEVM](https://zkevm.polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Pulsechain](https://scan.pulsechain.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Scroll](https://scrollscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Zora](https://explorer.zora.energy/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Polygon zkEVM](https://zkevm.polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Pulsechain](https://scan.pulsechain.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Scroll](https://scrollscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Zora](https://explorer.zora.energy/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 
 
 <!-- - Ethereum
@@ -70,25 +70,25 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 
 - [Arbitrum Goerli](https://goerli.arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Arbitrum Sepolia](https://sepolia.arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
-- [Arbitrum Stylus Testnet](https://stylus-testnet-explorer.arbitrum.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Avalanche Fuji](https://testnet.snowtrace.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Arbitrum Stylus Testnet](https://stylus-testnet-explorer.arbitrum.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Avalanche Fuji](https://testnet.snowtrace.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Base Goerli](https://goerli.basescan.org/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
-- [BSC Testnet](https://testnet.bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Fantom Testnet](https://testnet.ftmscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Frame Testnet](https://explorer.testnet.frame.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [BSC Testnet](https://testnet.bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Fantom Testnet](https://testnet.ftmscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Frame Testnet](https://explorer.testnet.frame.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Goerli](https://goerli.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
-- [Holesky](https://holesky.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Linea Goerli](https://explorer.goerli.linea.build/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Mantle Testnet](https://explorer.testnet.mantle.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Mode Sepolia](https://sepolia.explorer.mode.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [opBNB Testnet](https://opbnb-testnet.bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
-- [Optimism Goerli](https://goerli-optimism.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Holesky](https://holesky.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Linea Goerli](https://explorer.goerli.linea.build/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Mantle Testnet](https://explorer.testnet.mantle.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Mode Sepolia](https://sepolia.explorer.mode.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [opBNB Testnet](https://opbnb-testnet.bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Optimism Goerli](https://goerli-optimism.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Optimism Sepolia](https://sepolia-optimism.etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)**
 - [Polygon Mumbai](https://mumbai.polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Sepolia](https://sepolia.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
-- [Taiko Jolnir](https://explorer.jolnir.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
+- [Taiko Jolnir](https://explorer.jolnir.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 
-(* = To Be Verified)
+(* = Unable to Verify)
 (** = Issues Deploying)
 
 ## Usage
@@ -139,4 +139,8 @@ Verifying a contract on the relevant block explorer can have its issues. You can
 forge verify-contract 0x2Dfcc7415D89af828cbef005F0d072D8b3F23183 CREATE3Factory --watch --chain [network]
 ```
 
-to verify the contract separately if such a fail occurs.
+to verify the contract separately if such a fail occurs. In the worst case, you can run the following command to output the standard JSON input to `etherscan.json`:
+
+```bash
+forge verify-contract 0x2Dfcc7415D89af828cbef005F0d072D8b3F23183 CREATE3Factory --optimizer-runs=1000000 --show-standard-json-input > etherscan.json
+```
