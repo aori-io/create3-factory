@@ -59,6 +59,7 @@ taiko-jolnir = "${RPC_URL_TAIKO_JOLNIR}"
 mode-sepolia = "${RPC_URL_MODE_SEPOLIA}"
 opbnb-testnet = "${RPC_URL_OPBNB_TESTNET}"
 mantle-testnet = "${RPC_URL_MANTLE_TESTNET}"
+base-goerli = "${RPC_URL_BASE_GOERLI}"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
