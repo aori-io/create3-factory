@@ -36,6 +36,7 @@ scroll = "${RPC_URL_SCROLL}"
 pulsechain = "${RPC_URL_PULSECHAIN}"
 zora = "${RPC_URL_ZORA}"
 klaytn = "${RPC_URL_KLAYTN}"
+flare = "${RPC_URL_FLARE}"
 
 # testnets
 goerli = "${RPC_URL_GOERLI}"
