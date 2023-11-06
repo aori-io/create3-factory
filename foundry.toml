@@ -53,6 +53,7 @@ avalanche-fuji = "${RPC_URL_AVALANCHE_FUJI}"
 arbitrum-stylus-testnet = "${RPC_URL_ARBITRUM_STYLUS_TESTNET}"
 optimism-goerli = "${RPC_URL_OPTIMISM_GOERLI}"
 optimism-sepolia = "${RPC_URL_OPTIMISM_SEPOLIA}"
+fantom-testnet = "${RPC_URL_FANTOM_TESTNET}"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
