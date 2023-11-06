@@ -4,6 +4,7 @@ optimizer_runs = 1000000
 [rpc_endpoints]
 mainnet = "${RPC_URL_MAINNET}"
 polygon = "${RPC_URL_POLYGON}"
+polygon-zkevm = "${RPC_URL_POLYGON_ZKEVM}"
 bsc = "${RPC_URL_BSC}"
 gnosis = "${RPC_URL_GNOSIS}"
 fantom = "${RPC_URL_FANTOM}"
