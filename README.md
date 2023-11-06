@@ -51,15 +51,9 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 
 
 <!-- - Ethereum
-- Gnosis
 - Fantom
-- OKXChain
 - Avalanche C-Chain
-- Moonriver
-- Moonbeam
-- CELO
 - FUSE
-- CRONOS
 - Velas
 - Harmony Shard 0
 - EVMOS
