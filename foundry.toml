@@ -50,6 +50,7 @@ bsc-testnet = "${RPC_URL_BSC_TESTNET}"
 scroll-alpha = "${RPC_URL_SCROLL_ALPHA}"
 linea-goerli = "${RPC_URL_LINEA_GOERLI}"
 arbitrum-stylus-testnet = "${RPC_URL_ARBITRUM_STYLUS_TESTNET}"
+optimism-sepolia = "${RPC_URL_OPTIMISM_SEPOLIA}"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
