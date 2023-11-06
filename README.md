@@ -24,6 +24,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 `CREATE3Factory` has been deployed by the deployer address `0x243Eac06A13b3d83d0310fA320Dd9dF16147B08b` to `0x2Dfcc7415D89af828cbef005F0d072D8b3F23183` on the following networks:
 
 ### Mainnets
+- [Ethereum Mainnet](https://etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Arbitrum Nova](https://nova.arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Arbitrum (One)](https://arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Base](https://base.blockscout.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
