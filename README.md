@@ -28,6 +28,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Ethereum Mainnet](https://etherscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Arbitrum Nova](https://nova.arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Arbitrum (One)](https://arbiscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Avalanche](https://avascan.info/blockchain/c/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183/contract)
 - [Base](https://base.blockscout.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Binance Smart Chain](https://bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Canto](https://canto.dex.guru/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
