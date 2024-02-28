@@ -62,6 +62,7 @@ mode-sepolia = "${RPC_URL_MODE_SEPOLIA}"
 opbnb-testnet = "${RPC_URL_OPBNB_TESTNET}"
 mantle-testnet = "${RPC_URL_MANTLE_TESTNET}"
 base-goerli = "${RPC_URL_BASE_GOERLI}"
+sei-devnet = "${RPC_URL_SEI_DEVNET}"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
