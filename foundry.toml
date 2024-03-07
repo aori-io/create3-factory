@@ -64,6 +64,7 @@ mantle-testnet = "https://rpc.testnet.mantle.xyz"
 base-goerli = "https://goerli.base.org"
 sei-devnet = "https://evm-rpc-arctic-1.sei-apis.com"
 neon-devnet = "https://devnet.neonevm.org"
+blast-sepolia = "https://blast-sepolia.blockpi.network/v1/rpc/public"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
