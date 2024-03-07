@@ -63,6 +63,7 @@ opbnb-testnet = "https://opbnb-testnet-rpc.bnbchain.org"
 mantle-testnet = "https://rpc.testnet.mantle.xyz"
 base-goerli = "https://goerli.base.org"
 sei-devnet = "https://evm-rpc-arctic-1.sei-apis.com"
+neon-devnet = "https://devnet.neonevm.org"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
