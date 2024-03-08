@@ -66,6 +66,7 @@ sei-devnet = "https://evm-rpc-arctic-1.sei-apis.com"
 neon-devnet = "https://devnet.neonevm.org"
 blast-sepolia = "https://blast-sepolia.blockpi.network/v1/rpc/public"
 base-sepolia = "https://sepolia.base.org"
+morph-testnet = "https://rpc-testnet.morphl2.io"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
