@@ -37,6 +37,7 @@ pulsechain = "https://rpc.pulsechain.com"
 zora = "https://rpc.zora.energy"
 klaytn = "https://klaytn.blockpi.network/v1/rpc/public"
 flare = "https://flare-api.flare.network/ext/C/rpc"
+blast = "https://rpc.ankr.com/blast"
 
 # testnets
 goerli = "https://ethereum-goerli.publicnode.com"
