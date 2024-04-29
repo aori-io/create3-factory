@@ -93,6 +93,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Sei Devnet](https://blockchair.com/sei-evm/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Sepolia](https://sepolia.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
 - [Taiko Jolnir](https://explorer.jolnir.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Taiko Katla](https://explorer.katla.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 
 (* = Unable to Verify)
 (** = Issues Deploying)
