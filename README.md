@@ -52,6 +52,8 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Polygon zkEVM](https://zkevm.polygonscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Pulsechain](https://scan.pulsechain.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Scroll](https://scrollscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [X Layer](https://www.okx.com/web3/explorer/xlayer/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
+- [ZKSync](https://explorer.zksync.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Zora](https://explorer.zora.energy/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 
 
