@@ -76,7 +76,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Avalanche Fuji](https://testnet.snowtrace.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Base Goerli](https://goerli.basescan.org/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
 - [Base Sepolia](https://sepolia.basescan.org/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
-- [Berachain Artio](https://artio.beratrail.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Berachain bArtio](https://artio.beratrail.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Blast Sepolia](https://testnet.blastscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [BSC Testnet](https://testnet.bscscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Fantom Testnet](https://testnet.ftmscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
@@ -97,6 +97,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Sepolia](https://sepolia.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
 - [Taiko Jolnir](https://explorer.jolnir.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Taiko Katla](https://explorer.katla.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [Unichain Sepolia]()
 
 (* = Unable to Verify)
 (** = Issues Deploying)

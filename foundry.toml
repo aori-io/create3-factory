@@ -48,7 +48,7 @@ mumbai = "https://polygon-mumbai-bor.publicnode.com"
 arbitrum-goerli = "https://arbitrum-goerli.publicnode.com"
 arbitrum-sepolia = "https://sepolia-rollup.arbitrum.io/rpc"
 consensys-zkevm-testnet = "${RPC_URL_CONSENSYS_ZKEVM_TESTNET}"
-berachain-artio = "https://rpc.ankr.com/berachain_testnet"
+berachain-bArtio = "https://bartio.rpc.berachain.com/"
 bsc-testnet = "https://bsc-testnet.publicnode.com"
 scroll-alpha = "https://alpha-rpc.scroll.io/l2"
 linea-goerli = "https://rpc.goerli.linea.build"
@@ -71,6 +71,7 @@ base-sepolia = "https://sepolia.base.org"
 morph-testnet = "https://rpc-testnet.morphl2.io"
 taiko-katla = "https://rpc.katla.taiko.xyz"
 artela-testnet = "https://betanet-rpc1.artela.network"
+unichain-sepolia = "https://sepolia.unichain.org"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
@@ -93,4 +94,5 @@ goerli = { key = "${ETHERSCAN_KEY}" }
 sepolia = { key = "${ETHERSCAN_KEY}" }
 mumbai = { key = "${POLYGONSCAN_KEY}", url = "https://api-testnet.polygonscan.com/api" }
 arbitrum-goerli = { key = "${ARBISCAN_KEY}", url = "https://api-goerli.arbiscan.io/api" }
+unichain-sepolia = { key = "${UNICHAIN_SEPOLIA_KEY}", url = "https://sepolia.uniscan.xyz/" }
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
