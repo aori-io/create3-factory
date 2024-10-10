@@ -97,7 +97,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Sepolia](https://sepolia.etherscan.io/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
 - [Taiko Jolnir](https://explorer.jolnir.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Taiko Katla](https://explorer.katla.taiko.xyz/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
-- [Unichain Sepolia]()
+- [Unichain Sepolia](https://sepolia.uniscan.xyz/tx/0xfc2270c4e816ce20f5b62ec597289863b410185871392970e270827dc8ea9cc6)
 
 (* = Unable to Verify)
 (** = Issues Deploying)
