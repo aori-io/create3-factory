@@ -156,3 +156,17 @@ to verify the contract separately if such a fail occurs. In the worst case, you 
 ```bash
 forge verify-contract 0x2Dfcc7415D89af828cbef005F0d072D8b3F23183 CREATE3Factory --optimizer-runs=1000000 --show-standard-json-input > etherscan.json
 ```
+
+### Fallback: Blockscout Verification
+
+If Blockscout verification fails, use this command to verify the contract on Blockscout:
+
+```bash
+forge verify-contract \
+    --rpc-url <rpc-endpoint> \
+    0x2Dfcc7415D89af828cbef005F0d072D8b3F23183 \
+    src/CREATE3Factory.sol:CREATE3Factory \
+    --verifier blockscout \
+    --verifier-url <blockscout_explorer_url>/api/ \
+    --compiler-version 0.8.17
+```
