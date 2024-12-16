@@ -72,6 +72,7 @@ morph-testnet = "https://rpc-testnet.morphl2.io"
 taiko-katla = "https://rpc.katla.taiko.xyz"
 artela-testnet = "https://betanet-rpc1.artela.network"
 unichain-sepolia = "https://sepolia.unichain.org"
+camp-network-testnet-v2 = "https://rpc-campnetwork.xyz"
 
 [etherscan]
 mainnet = { key = "${ETHERSCAN_KEY}" }
@@ -95,4 +96,6 @@ sepolia = { key = "${ETHERSCAN_KEY}" }
 mumbai = { key = "${POLYGONSCAN_KEY}", url = "https://api-testnet.polygonscan.com/api" }
 arbitrum-goerli = { key = "${ARBISCAN_KEY}", url = "https://api-goerli.arbiscan.io/api" }
 unichain-sepolia = { key = "${UNICHAIN_SEPOLIA_KEY}", url = "https://sepolia.uniscan.xyz/" }
+camp-network-testnet-v2 = { key = "${CAMP_NETWORK_TESTNET_V2_KEY}", url = "https://camp-network-testnet.blockscout.com/api?" }
+
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
