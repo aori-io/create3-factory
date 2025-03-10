@@ -39,6 +39,7 @@ klaytn = "https://klaytn.blockpi.network/v1/rpc/public"
 flare = "https://flare-api.flare.network/ext/C/rpc"
 blast = "https://rpc.ankr.com/blast"
 xlayer = "https://rpc.xlayer.tech"
+unichain = "https://mainnet.unichain.org"
 
 # testnets
 goerli = "https://ethereum-goerli.publicnode.com"
@@ -88,6 +89,7 @@ moonbeam = { key = "${MOONBEAM_MOONSCAN_KEY}", url = "https://api-moonbeam.moons
 nova = { key = "${NOVA_ARBISCAN_KEY}", url = "https://nova.arbiscan.io/api" }
 base = { key = "${BASESCAN_API_KEY}", url = "https://api.basescan.org/api" }
 linea = { key = "${LINEASCAN_API_KEY}", url = "https://api.lineascan.build/api" }
+unichain = { key = "${UNICHAIN_SCAN_KEY}", url = "https://api.uniscan.xyz/api" }
 
 #testnets
 linea-goerli = { key = "${LINEASCAN_API_KEY}", url = "https://api-goerli.lineascan.build/api" }
@@ -95,7 +97,7 @@ goerli = { key = "${ETHERSCAN_KEY}" }
 sepolia = { key = "${ETHERSCAN_KEY}" }
 mumbai = { key = "${POLYGONSCAN_KEY}", url = "https://api-testnet.polygonscan.com/api" }
 arbitrum-goerli = { key = "${ARBISCAN_KEY}", url = "https://api-goerli.arbiscan.io/api" }
-unichain-sepolia = { key = "${UNICHAIN_SEPOLIA_KEY}", url = "https://sepolia.uniscan.xyz/" }
+unichain-sepolia = { key = "${UNICHAIN_SEPOLIA_KEY}", url = "https://api-sepolia.uniscan.xyz/api/" }
 camp-network-testnet-v2 = { key = "${CAMP_NETWORK_TESTNET_V2_KEY}", url = "https://camp-network-testnet.blockscout.com/api/" }
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
