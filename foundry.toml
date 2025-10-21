@@ -40,6 +40,8 @@ flare = "https://flare-api.flare.network/ext/C/rpc"
 blast = "https://rpc.ankr.com/blast"
 xlayer = "https://rpc.xlayer.tech"
 unichain = "https://mainnet.unichain.org"
+sonic-mainnet = "https://rpc.soniclabs.com"
+plasma-mainnet = "https://rpc.plasma.to"
 
 # testnets
 goerli = "https://ethereum-goerli.publicnode.com"
@@ -90,6 +92,7 @@ nova = { key = "${NOVA_ARBISCAN_KEY}", url = "https://nova.arbiscan.io/api" }
 base = { key = "${BASESCAN_API_KEY}", url = "https://api.basescan.org/api" }
 linea = { key = "${LINEASCAN_API_KEY}", url = "https://api.lineascan.build/api" }
 unichain = { key = "${UNICHAIN_SCAN_KEY}", url = "https://api.uniscan.xyz/api" }
+sonic = { key = "${SONICSCAN_API_KEY}", url = "https://api.etherscan.io/api/v2" }
 
 #testnets
 linea-goerli = { key = "${LINEASCAN_API_KEY}", url = "https://api-goerli.lineascan.build/api" }
