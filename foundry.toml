@@ -1,4 +1,5 @@
 [profile.default]
+solc_version = "0.8.19"
 optimizer_runs = 1000000
 
 [rpc_endpoints]
@@ -42,6 +43,7 @@ xlayer = "https://rpc.xlayer.tech"
 unichain = "https://mainnet.unichain.org"
 sonic-mainnet = "https://rpc.soniclabs.com"
 plasma-mainnet = "https://rpc.plasma.to"
+hyperevm-mainnet = "https://rpc.hypurrscan.io"
 
 # testnets
 goerli = "https://ethereum-goerli.publicnode.com"
