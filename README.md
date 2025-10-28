@@ -38,6 +38,7 @@ Reach out to us at [@aori_io](https://twitter.com/aori_io) on Twitter if you wou
 - [Flare](https://flare-explorer.flare.network/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)*
 - [Fantom](https://ftmscan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Gnosis](https://gnosisscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
+- [HyperEVM](https://hyperevmscan.io/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Linea](https://lineascan.build/address/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)
 - [Kava](https://kavascan.com/address/0x2Dfcc7415D89af828cbef005F0d072D8b3F23183)
 - [Klaytn](https://scope.klaytn.com/account/0x2dfcc7415d89af828cbef005f0d072d8b3f23183)*
